@@ -1,0 +1,2484 @@
+{
+  "statusCode": 200,
+  "body": [
+    {
+      "id": "jw02734001001_02101_00004-seg001_nis_cal.jpg",
+      "observation_id": "jw02734001001_02101_00004-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_02101_00004-seg001_nis_cal_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00004-seg001_nis_cal.jpg"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg001_nis_calints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg001_nis_calints.fits"
+    },
+    {
+      "id": "jw02734_20220712t204150_pool.csv",
+      "observation_id": "jw02734_20220712t204150",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_pool",
+        "description": "source/target (L3) : association pool"
+      },
+      "file_type": "csv",
+      "thumbnail": "",
+      "location": "https://mast.stsci.edu/api/v0.1/Download/file?uri=mast:JWST/product/jw02734_20220712t204150_pool.csv"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg001_nis_o002_crfints.jpg",
+      "observation_id": "jw02734002001_04101_00001-seg001_nis_o002ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_04101_00001-seg001_nis_o002_crfints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg001_nis_o002_crfints.jpg"
+    },
+    {
+      "id": "jw02734-o001_t001_niriss_f277w-gr700xd-substrip256_x1dints.fits",
+      "observation_id": "jw02734-o001_t001_niriss_f277w-gr700xd-substrip256ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_t001_niriss_f277w-gr700xd-substrip256_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg001_nis_calints.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_04101_00001-seg001_nis_calints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg001_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg004_nis_o001_crfints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg004_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg004_nis_o001_crfints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg003_nis_o001_crfints.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg003_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_04101_00001-seg003_nis_o001_crfints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg003_nis_o001_crfints.jpg"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg003_nis_calints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg003_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg003_nis_calints.fits"
+    },
+    {
+      "id": "jw02734002001_02101_00001-seg001_nis_cal.fits",
+      "observation_id": "jw02734002001_02101_00001-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_02101_00001-seg001_nis_cal.fits"
+    },
+    {
+      "id": "jw02734001001_02101_00003-seg001_nis_cal.fits",
+      "observation_id": "jw02734001001_02101_00003-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00003-seg001_nis_cal.fits"
+    },
+    {
+      "id": "jw02734-o002_t002_niriss_clear-gr700xd-substrip256_x1dints.fits",
+      "observation_id": "jw02734-o002_t002_niriss_clear-gr700xd-substrip256ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_t002_niriss_clear-gr700xd-substrip256_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_02101_00001-seg001_nis_cal.fits",
+      "observation_id": "jw02734001001_02101_00001-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00001-seg001_nis_cal.fits"
+    },
+    {
+      "id": "jw02734001001_02101_00003-seg001_nis_cal.jpg",
+      "observation_id": "jw02734001001_02101_00003-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_02101_00003-seg001_nis_cal_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00003-seg001_nis_cal.jpg"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_image2_004_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_image2_004",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_image2_004_asn.json"
+    },
+    {
+      "id": "jw02734001001_02101_00002-seg001_nis_cal.jpg",
+      "observation_id": "jw02734001001_02101_00002-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_02101_00002-seg001_nis_cal_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00002-seg001_nis_cal.jpg"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg004_nis_x1dints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg004_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg004_nis_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg004_nis_o001_crfints.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg004_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_04101_00001-seg004_nis_o001_crfints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg004_nis_o001_crfints.jpg"
+    },
+    {
+      "id": "jw02734001001_04102_00001-seg001_nis_calints.jpg",
+      "observation_id": "jw02734001001_04102_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_04102_00001-seg001_nis_calints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04102_00001-seg001_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734002001_04102_00001-seg001_nis_calints_thumb.jpg",
+      "observation_id": "jw02734002001_04102_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_thumb",
+        "description": "thumbnail image of the FITS data product"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04102_00001-seg001_nis_calints_thumb.jpg"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg001_nis_calints.jpg",
+      "observation_id": "jw02734002001_04101_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg001_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg001_nis_o002_crfints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg001_nis_o002ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg001_nis_o002_crfints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg001_nis_x1dints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg001_nis_x1dints.fits"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_tso-spec2_004_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_tso-spec2_004",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_tso-spec2_004_asn.json"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg002_nis_calints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg002_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg002_nis_calints.fits"
+    },
+    {
+      "id": "jw02734001001_04102_00001-seg001_nis_o001_crfints.jpg",
+      "observation_id": "jw02734001001_04102_00001-seg001_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04102_00001-seg001_nis_o001_crfints.jpg"
+    },
+    {
+      "id": "jw02734-o002_t002_niriss_clear-gr700xd-substrip256_whtlt.ecsv",
+      "observation_id": "jw02734-o002_t002_niriss_clear-gr700xd-substrip256",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_whtlt",
+        "description": "target (L3) : spectroscopic white-light curve"
+      },
+      "file_type": "ecsv",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_t002_niriss_clear-gr700xd-substrip256_whtlt.ecsv"
+    },
+    {
+      "id": "jw02734002001_02101_00002-seg001_nis_cal.jpg",
+      "observation_id": "jw02734002001_02101_00002-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_02101_00002-seg001_nis_cal_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_02101_00002-seg001_nis_cal.jpg"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg003_nis_calints.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg003_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_04101_00001-seg003_nis_calints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg003_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734001001_04102_00001-seg001_nis_calints.fits",
+      "observation_id": "jw02734001001_04102_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04102_00001-seg001_nis_calints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg002_nis_calints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg002_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg002_nis_calints.fits"
+    },
+    {
+      "id": "jw02734002001_04102_00001-seg001_nis_o002_crfints.jpg",
+      "observation_id": "jw02734002001_04102_00001-seg001_nis_o002ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_04102_00001-seg001_nis_o002_crfints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04102_00001-seg001_nis_o002_crfints.jpg"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg003_nis_x1dints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg003_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg003_nis_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg004_nis_calints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg004_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg004_nis_calints.fits"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg003_nis_calints.jpg",
+      "observation_id": "jw02734002001_04101_00001-seg003_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_04101_00001-seg003_nis_calints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg003_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_image2_002_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_image2_002",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_image2_002_asn.json"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg002_nis_o001_crfints.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg002_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg002_nis_o001_crfints.jpg"
+    },
+    {
+      "id": "jw02734002001_02101_00003-seg001_nis_cal.jpg",
+      "observation_id": "jw02734002001_02101_00003-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_02101_00003-seg001_nis_cal_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_02101_00003-seg001_nis_cal.jpg"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_tso3_002_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_tso3_002",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_tso3_002_asn.json"
+    },
+    {
+      "id": "jw02734001001_04102_00001-seg001_nis_x1dints.fits",
+      "observation_id": "jw02734001001_04102_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04102_00001-seg001_nis_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg002_nis_o001_crfints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg002_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg002_nis_o001_crfints.fits"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_image2_003_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_image2_003",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_image2_003_asn.json"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_tso-spec2_001_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_tso-spec2_001",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_tso-spec2_001_asn.json"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg002_nis_o002_crfints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg002_nis_o002ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg002_nis_o002_crfints.fits"
+    },
+    {
+      "id": "jw02734-o001_t001_niriss_clear-gr700xd-substrip256_whtlt.ecsv",
+      "observation_id": "jw02734-o001_t001_niriss_clear-gr700xd-substrip256",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_whtlt",
+        "description": "target (L3) : spectroscopic white-light curve"
+      },
+      "file_type": "ecsv",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_t001_niriss_clear-gr700xd-substrip256_whtlt.ecsv"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg004_nis_calints.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg004_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_04101_00001-seg004_nis_calints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg004_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_tso3_001_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_tso3_001",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_tso3_001_asn.json"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_tso-spec2_003_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_tso-spec2_003",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_tso-spec2_003_asn.json"
+    },
+    {
+      "id": "jw02734002001_02101_00004-seg001_nis_cal.jpg",
+      "observation_id": "jw02734002001_02101_00004-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_02101_00004-seg001_nis_cal_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_02101_00004-seg001_nis_cal.jpg"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg003_nis_x1dints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg003_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg003_nis_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_04102_00001-seg001_nis_o001_crfints.fits",
+      "observation_id": "jw02734001001_04102_00001-seg001_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04102_00001-seg001_nis_o001_crfints.fits"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_tso3_002_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_tso3_002",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_tso3_002_asn.json"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_image2_001_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_image2_001",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_image2_001_asn.json"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg001_nis_calints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg001_nis_calints.fits"
+    },
+    {
+      "id": "jw02734002001_02101_00001-seg001_nis_cal.jpg",
+      "observation_id": "jw02734002001_02101_00001-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_02101_00001-seg001_nis_cal_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_02101_00001-seg001_nis_cal.jpg"
+    },
+    {
+      "id": "jw02734002001_04102_00001-seg001_nis_calints.jpg",
+      "observation_id": "jw02734002001_04102_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04102_00001-seg001_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734001001_02101_00002-seg001_nis_cal.fits",
+      "observation_id": "jw02734001001_02101_00002-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00002-seg001_nis_cal.fits"
+    },
+    {
+      "id": "jw02734002001_02101_00003-seg001_nis_cal.fits",
+      "observation_id": "jw02734002001_02101_00003-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_02101_00003-seg001_nis_cal.fits"
+    },
+    {
+      "id": "jw02734-o002_t002_niriss_f277w-gr700xd-substrip256_x1dints.fits",
+      "observation_id": "jw02734-o002_t002_niriss_f277w-gr700xd-substrip256ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_t002_niriss_f277w-gr700xd-substrip256_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_04102_00001-seg001_nis_o001_crfints_thumb.jpg",
+      "observation_id": "jw02734001001_04102_00001-seg001_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_thumb",
+        "description": "thumbnail image of the FITS data product"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04102_00001-seg001_nis_o001_crfints_thumb.jpg"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_tso-spec2_002_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_tso-spec2_002",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_tso-spec2_002_asn.json"
+    },
+    {
+      "id": "jw02734002001_02101_00004-seg001_nis_cal.fits",
+      "observation_id": "jw02734002001_02101_00004-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_02101_00004-seg001_nis_cal.fits"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_tso-spec2_004_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_tso-spec2_004",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_tso-spec2_004_asn.json"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_image2_003_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_image2_003",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_image2_003_asn.json"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_tso-spec2_003_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_tso-spec2_003",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_tso-spec2_003_asn.json"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_image2_004_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_image2_004",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_image2_004_asn.json"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg001_nis_calints_thumb.jpg",
+      "observation_id": "jw02734002001_04101_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_thumb",
+        "description": "thumbnail image of the FITS data product"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg001_nis_calints_thumb.jpg"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_tso-spec2_005_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_tso-spec2_005",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_tso-spec2_005_asn.json"
+    },
+    {
+      "id": "jw02734-o001_t001_niriss_clear-gr700xd-substrip256_x1dints.fits",
+      "observation_id": "jw02734-o001_t001_niriss_clear-gr700xd-substrip256ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_t001_niriss_clear-gr700xd-substrip256_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg002_nis_calints.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg002_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_04101_00001-seg002_nis_calints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg002_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734002001_04102_00001-seg001_nis_o002_crfints.fits",
+      "observation_id": "jw02734002001_04102_00001-seg001_nis_o002ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04102_00001-seg001_nis_o002_crfints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg002_nis_x1dints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg002_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg002_nis_x1dints.fits"
+    },
+    {
+      "id": "jw02734001001_02101_00004-seg001_nis_cal.fits",
+      "observation_id": "jw02734001001_02101_00004-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00004-seg001_nis_cal.fits"
+    },
+    {
+      "id": "jw02734001001_02101_00001-seg001_nis_cal.jpg",
+      "observation_id": "jw02734001001_02101_00001-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00001-seg001_nis_cal.jpg"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg002_nis_o002_crfints.jpg",
+      "observation_id": "jw02734002001_04101_00001-seg002_nis_o002ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_04101_00001-seg002_nis_o002_crfints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg002_nis_o002_crfints.jpg"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg001_nis_o001_crfints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg001_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg001_nis_o001_crfints.fits"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_image2_002_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_image2_002",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_image2_002_asn.json"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg003_nis_o001_crfints.fits",
+      "observation_id": "jw02734001001_04101_00001-seg003_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg003_nis_o001_crfints.fits"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg001_nis_x1dints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg001_nis_x1dints.fits"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg002_nis_calints.jpg",
+      "observation_id": "jw02734002001_04101_00001-seg002_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_04101_00001-seg002_nis_calints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg002_nis_calints.jpg"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg001_nis_o001_crfints.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg001_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734001001_04101_00001-seg001_nis_o001_crfints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg001_nis_o001_crfints.jpg"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg003_nis_o002_crfints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg003_nis_o002ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg003_nis_o002_crfints.fits"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg003_nis_o002_crfints.jpg",
+      "observation_id": "jw02734002001_04101_00001-seg003_nis_o002ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          }
+        ],
+        "suffix": "_crfints",
+        "description": "exposure (L2c): 3D Calibrated data per integration"
+      },
+      "file_type": "jpg",
+      "thumbnail": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/thumb--jw02734002001_04101_00001-seg003_nis_o002_crfints_thumb.jpg",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg003_nis_o002_crfints.jpg"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg002_nis_x1dints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg002_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_x1dints",
+        "description": "exposure/target (L2b/L3): 1D extracted spectrum per integration"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg002_nis_x1dints.fits"
+    },
+    {
+      "id": "jw02734002001_04101_00001-seg003_nis_calints.fits",
+      "observation_id": "jw02734002001_04101_00001-seg003_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04101_00001-seg003_nis_calints.fits"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_tso3_001_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_tso3_001",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_tso3_001_asn.json"
+    },
+    {
+      "id": "jw02734002001_04102_00001-seg001_nis_calints.fits",
+      "observation_id": "jw02734002001_04102_00001-seg001_nisints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_calints",
+        "description": "exposure (L2b): 3D calibrated exposure"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_04102_00001-seg001_nis_calints.fits"
+    },
+    {
+      "id": "jw02734001001_04101_00001-seg002_nis_o001_crfints_thumb.jpg",
+      "observation_id": "jw02734001001_04101_00001-seg002_nis_o001ints",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_thumb",
+        "description": "thumbnail image of the FITS data product"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_04101_00001-seg002_nis_o001_crfints_thumb.jpg"
+    },
+    {
+      "id": "jw02734002001_02101_00002-seg001_nis_cal.fits",
+      "observation_id": "jw02734002001_02101_00002-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_cal",
+        "description": "exposure (L2b): 2D calibrated exposure average over integrations"
+      },
+      "file_type": "fits",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734002001_02101_00002-seg001_nis_cal.fits"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_image2_001_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_image2_001",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_image2_001_asn.json"
+    },
+    {
+      "id": "jw02734001001_02101_00001-seg001_nis_cal_thumb.jpg",
+      "observation_id": "jw02734001001_02101_00001-seg001_nis",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_thumb",
+        "description": "thumbnail image of the FITS data product"
+      },
+      "file_type": "jpg",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734001001_02101_00001-seg001_nis_cal_thumb.jpg"
+    },
+    {
+      "id": "jw02734-o002_20220712t204150_tso-spec2_002_asn.json",
+      "observation_id": "jw02734-o002_20220712t204150_tso-spec2_002",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o002_20220712t204150_tso-spec2_002_asn.json"
+    },
+    {
+      "id": "jw02734-o001_20220712t204150_tso-spec2_001_asn.json",
+      "observation_id": "jw02734-o001_20220712t204150_tso-spec2_001",
+      "program": 2734,
+      "details": {
+        "mission": "JWST",
+        "instruments": [
+          {
+            "instrument": "FGS"
+          },
+          {
+            "instrument": "NIRCam"
+          },
+          {
+            "instrument": "NIRISS"
+          },
+          {
+            "instrument": "NIRSpec"
+          },
+          {
+            "instrument": "MIRI"
+          }
+        ],
+        "suffix": "_asn",
+        "description": "source/target (L3) : association generator"
+      },
+      "file_type": "json",
+      "thumbnail": "",
+      "location": "https://jwst-api-cdn.nyc3.cdn.digitaloceanspaces.com/jwst--jw02734-o001_20220712t204150_tso-spec2_001_asn.json"
+    }
+  ],
+  "error": ""
+}
